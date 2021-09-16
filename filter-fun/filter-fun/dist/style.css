@@ -1,0 +1,11 @@
+h1{
+  font:arial;
+  font-size:36px;
+  color:gray;
+}
+canvas{
+  border: 2px solid gray;
+}
+body{
+  background-color:orange;
+}
